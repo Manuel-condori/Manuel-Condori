@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Manuel
 #### I am a Full-Stack Developers 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel-condori&theme=ayu-mirage&show_icons=true&include_all_commits=true)](https://github.com/Manuel-condori/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-condori&layout=compact&theme=ayu-mirage)](https://github.com/Manuel-condori/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel-condori&theme=ayu-mirage&show_icons=true&include_all_commits=true)](https://github.com/Manuel-condori/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-condori&layout=compact&theme=ayu-mirage)](https://github.com/Manuel-condori/github-readme-stats)
 
 #Skills: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='python' height='40'/>
