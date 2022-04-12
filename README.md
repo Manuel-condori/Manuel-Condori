@@ -26,11 +26,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manuel-condori&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-condori&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
+    
+--- 
+    
+<h3 align="left"> Contact me</h3>
+ <div>   
+    <a href="https://www.linkedin.com/in/mcondori28/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+     <a href="https://github.com/Manuel-condori/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a>
+ </div>    
 
-![Snake animation](https://github.com/Manuel-condori/Manuel-condori/blob/output/github-contribution-grid-snake.svg)
-
-
-[linkedin]: https://www.linkedin.com/in/mcondori28/
 
 
 
