@@ -1,13 +1,20 @@
 ### Hi there 👋, my name is Manuel
 #### I am a Full-Stack Developers 
-As a final work in my academic training I made an AirBnB clone ... that was great ...
 
-Skills: C / PYTHON / JS / HTML / CSS
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manuel-condori&theme=ayu-mirage&show_icons=true&include_all_commits=true)](https://github.com/Manuel-condori/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manuel-condori&layout=compact&theme=ayu-mirage)](https://github.com/Manuel-condori/github-readme-stats)
 
-- 🔭 I’m currently working on creation of a posture corrector using knowledge in software (c language) and hardware (arduino) 
-- 🌱 I’m currently learning c++ 
-- 💬 Ask me about python 
-- 📫 How to reach me: You can visit my Linkedin where I share publications about technology. 
+#Skills: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt='python' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt='python' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt='python' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt='python' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt='python' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt='python' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt='python' height='40'/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt='python' height='40'/>
+
+#Contact:
 
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/https://github.com/Manuel-condori)  [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mcondori28//)  
 
